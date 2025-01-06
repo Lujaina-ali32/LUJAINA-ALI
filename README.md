@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Lujaina Ali</h1>
 <h3 align="center">"Passionate about IT,driven by curiosity"</h3>
 <img align="right" alt="coding"  width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7V8DClkG4bEpCQLxGBlTQOGcFZ5LC5-TLNw&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lujaina-ali32&label=Profile%20views&color=0e75b6&style=flat" alt="lujaina-ali32" /> </p>
 
 - 🌱 I’m currently learning **web & app development,AI and web3 and Metavers.**
 
